@@ -8,12 +8,8 @@ dependencies:
   - pip
   - beautifulsoup4
   - librosa
-  - glob
-  - random
-  - sklearn
+  - glob2
   - keras
   - tensorflow
-  - datetime
-  - os
   - pip:
       - bash_kernel
