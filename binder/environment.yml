@@ -1,5 +1,6 @@
 dependencies:
   - matplotlib
+  - pydub
   - numpy
   - pandas
   - scipy
